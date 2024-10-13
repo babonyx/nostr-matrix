@@ -42,10 +42,10 @@ features:
   liveStreaming: ✅
   liveStatus: ✅
   classifieds: ✅
-  calendarEvents: ❌
-  marketplaces: ❌
+  calendarEvents:
+  marketplaces:
   walletConnect: ✅
-  nostrConnect: ❌
+  nostrConnect:
   mnemonicSeed: ❌
   proofOfWork: ❌
   relayReviews: 
